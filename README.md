@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A junior cs developer</h3>
+<h3 align="center">A junior Fron-End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db1148ed-4d5a-4121-b0ee-a6f23129042e/d7n21js-e0609967-5138-45cf-b0f6-7e3788dd0092.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiMTE0OGVkLTRkNWEtNDEyMS1iMGVlLWE2ZjIzMTI5MDQyZVwvZDduMjFqcy1lMDYwOTk2Ny01MTM4LTQ1Y2YtYjBmNi03ZTM3ODhkZDAwOTIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lHL8F6-drMgxmcfStuGOJnF2saB3RYwcND5ziorbpMs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svnji&label=Profile%20views&color=0e75b6&style=flat" alt="svnji" /> </p>
