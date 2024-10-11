@@ -10,7 +10,7 @@
   </a>
 </div>
 
-- 🌱 🌱 I’m currently learning **Swift** and **UIKit** to enhance my iOS development skills.
+- 🌱 I’m currently learning **Swift** and **UIKit** to enhance my iOS development skills.
 
 - 💬 Ask me about **iOS Development**, **Swift**, and **Python**.
 
